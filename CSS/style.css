@@ -1,0 +1,12 @@
+.default_input {
+    border: green 5px solid;
+    padding: 5px;
+}
+
+.error_input {
+    border-color: red;
+}
+
+#avatar {
+    width: 624px;
+}
